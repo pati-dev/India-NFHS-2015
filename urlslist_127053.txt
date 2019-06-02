@@ -1,0 +1,7 @@
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IABR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IACR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IAHR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IAIR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IAKR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IAMR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
+https://dhsprogram.com/customcf/legacy/data/download_dataset.cfm?Filename=IAPR74DT.zip&Tp=1&Ctry_Code=IA&surv_id=355&dm=1&dmode=cf
